@@ -1,0 +1,6 @@
+{
+  "name": "Nactivte Da",
+  "description": "تطبيق متكامل لتفعيل عروض جيزي 2Go المجانية، العروض المدفوعة، MGM، وتحويل الشريحة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
